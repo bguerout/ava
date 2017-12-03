@@ -1,7 +1,7 @@
 {
-	"name": "ava",
-	"version": "0.24.0",
-	"description": "Futuristic test runner 🚀",
+	"name": "ava-native",
+	"version": "0.0.1",
+	"description": "Present test runner 🚀",
 	"license": "MIT",
 	"repository": "avajs/ava",
 	"homepage": "https://ava.li",
